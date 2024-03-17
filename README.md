@@ -1,11 +1,11 @@
 [![MasterHead](https:)
 <h1 align="center">Hi 👋, I'm BharatSingh Rajpurohit</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **ODOO**
+- 🌱 I’m currently learning **Deep Learning and Machine Learning Algorithm**
 
-- 💬 Ask me about **Python, Django/Flask**
+- 💬 Ask me about **Python, ML and DL**
 
 - 📫 How to reach me **bsraigur@gmail.com**
 
