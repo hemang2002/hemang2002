@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, My name is Hemang Mujpara</h1>
+
+<img align="right" height=40 alt="bsraigur" src="https://komarev.com/ghpvc/?username=hemang2002&label=Profile%20views&color=0e75b6&style=flat"/>
+<br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently studying **Deep Learning and Machine Learning Algorithm**
+- Pursuing **Deep Learning and Machine Learning Algorithm**
 
-- 💬 Ask me about **Python, ML and DL**
+- 💬 Lets talk about **New technology about ML and DL**
 
 - 📫 How to reach me **soni.hemang2002@gmail.com**
 
 <p align="left">
+  
   Immersed in the world of AI, ML, and DS, I am curious explorer navigating through vast landscapes of data and algorithms. 
   
   With a solid background in math, stats, and computer science, I'm on a quest to solve real-world problems and contribute to making things better.
@@ -22,10 +27,10 @@
   
   With enthusiasm as my fuel and a commitment to making a positive impact, I'm ready to embark on this journey of exploration and innovation.
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hemang-mujpara-9b9a271b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsraigur" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,3 +44,5 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 </p>
+
+<img height=220 alt="Top Lang" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemang2002&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
