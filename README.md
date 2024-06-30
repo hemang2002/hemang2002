@@ -45,4 +45,4 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 </p>
 
-<img height=220 alt="Top Lang" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemang2002&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
+<img height=220 alt="Top Lang" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemang2002&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
