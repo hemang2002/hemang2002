@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Hemang Mujpara</h1>
 
-<img align="right" height=40 alt="bsraigur" src="https://komarev.com/ghpvc/?username=hemang2002&label=Profile%20views&color=0e75b6&style=flat"/>
+<img align="right" height=40 alt="Hemang" src="https://komarev.com/ghpvc/?username=hemang2002&label=Profile%20views&color=0e75b6&style=flat"/>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
