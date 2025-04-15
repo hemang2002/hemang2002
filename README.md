@@ -17,11 +17,7 @@
   
   With a solid background in math, stats, and computer science, I'm on a quest to solve real-world problems and contribute to making things better.
   
-  Just like nature's patterns inspire me, I find beauty in the patterns within data. 
-  
   I'm driven by a desire to understand how things work and to use that knowledge to create practical solutions. 
-  
-  Collaboration is key, as I know I can achieve more by working with others, just like how ecosystems thrive through interconnected relationships.
   
   I'm always eager to learn and grow, recognizing that the field of AI is constantly evolving. 
   
