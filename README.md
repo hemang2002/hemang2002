@@ -7,17 +7,17 @@
 
 <p align="left">
   
-- 🔬 Currently diving deep into AI, Machine Learning, and Data Science as Jr. Software Engineer at the **Research and Innovation Council at National Forensic Sciences University (NFSU RIC)**.
+- Currently diving deep into AI, Machine Learning, and Data Science as Jr. Software Engineer at the **Research and Innovation Council at National Forensic Sciences University (NFSU RIC)**.
 
-- 📊 With a solid foundation in mathematics, statistics, and computer science, I'm passionate about applying these tools to solve real-world problems—especially those that can make a positive impact.
+- With a solid foundation in mathematics, statistics, and computer science, I'm passionate about applying these tools to solve real-world problems—especially those that can make a positive impact.
 
-- 🔍 Fueled by curiosity and a relentless drive to understand how things work, I aim to turn insight into innovation—building practical, scalable solutions in a world that’s constantly changing.
+- Fueled by curiosity and a relentless drive to understand how things work, I aim to turn insight into innovation—building practical, scalable solutions in a world that’s constantly changing.
 
-- 📚 Always learning. Always growing. Whether it's exploring the latest AI frameworks, contributing to open-source, or collaborating on research, I believe every line of code should bring us a step closer to a better future.
+- Always learning. Always growing. Whether it's exploring the latest AI frameworks, contributing to open-source, or collaborating on research, I believe every line of code should bring us a step closer to a better future.
   
-- 💬 Lets talk about **New technology about ML and DL**
+- Lets talk about **New technology about ML and DL**
 
-- 📫 How to reach me **soni.hemang2002@gmail.com**
+- How to reach me **soni.hemang2002@gmail.com**
 </p>
 
 <h3 align="left">Connect with me:</h3>
