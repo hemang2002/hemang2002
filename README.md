@@ -7,7 +7,7 @@
 
 <p align="left">
   
-- 🔬 Currently diving deep into AI, Machine Learning, and Data Science as part of the **Research and Innovation Council at National Forensic Sciences University (NFSU RIC)**.
+- 🔬 Currently diving deep into AI, Machine Learning, and Data Science as Jr. Software Engineer at the **Research and Innovation Council at National Forensic Sciences University (NFSU RIC)**.
 
 - 📊 With a solid foundation in mathematics, statistics, and computer science, I'm passionate about applying these tools to solve real-world problems—especially those that can make a positive impact.
 
