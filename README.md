@@ -9,7 +9,7 @@
   
 - Currently diving deep into AI, Machine Learning, and Data Science as Jr. Software Engineer at the **Research and Innovation Council at National Forensic Sciences University (NFSU RIC)**.
 
-- With a solid foundation in mathematics, statistics, and computer science, I'm passionate about applying these tools to solve real-world problems—especially those that can make a positive impact.
+- With a solid foundation in mathematics, statistics and computer science, I'm passionate about applying these tools to solve real-world problems—especially those that can make a positive impact.
 
 - Fueled by curiosity and a relentless drive to understand how things work, I aim to turn insight into innovation—building practical, scalable solutions in a world that’s constantly changing.
 
@@ -44,6 +44,10 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180907/ska/kisspng-redis-memcached-database-caching-key-value-databas-redis-logo-svg-vector-amp-png-transparent-vect-1713942841776.webp" alt="redis" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/849a82b727b1cc1e77b58149b3cacbfa5ada30fd/logo/logo.svg" alt="redis" width="40" height="40"/></a>
+  
 </p>
 
 <img height=220 alt="Top Lang" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemang2002&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
