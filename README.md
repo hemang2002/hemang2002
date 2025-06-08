@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hemang-mujpara-9b9a271b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hm=emang2002" height="30" width="40" /></a>
-<a href="soni.hemang2002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="hemang2002" height="30" width="40" /></a>
+<a href="mailto:soni.hemang2002@gmail.com?subject=Inquiry%20from%20GitHub%20Profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="hemang2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
