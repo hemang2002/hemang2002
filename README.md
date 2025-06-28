@@ -7,20 +7,18 @@
 
 <p align="left">
   
-- Currently diving deep into AI, Machine Learning, and Data Science as Jr. Software Engineer at the **Research and Innovation Council at National Forensic Sciences University (NFSU RIC)**.
-
 - With a solid foundation in mathematics, statistics and computer science, I'm passionate about applying these tools to solve real-world problems—especially those that can make a positive impact.
 
 - Fueled by curiosity and a relentless drive to understand how things work, I aim to turn insight into innovation—building practical, scalable solutions in a world that’s constantly changing.
 
 - Always learning. Always growing. Whether it's exploring the latest AI frameworks, contributing to open-source, or collaborating on research, I believe every line of code should bring us a step closer to a better future.
   
-- Lets talk about **New technology about ML and DL**
+- Lets talk about **New technology**
 
 - How to reach me **soni.hemang2002@gmail.com**
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hemang-mujpara-9b9a271b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hm=emang2002" height="30" width="40" /></a>
 <a href="mailto:soni.hemang2002@gmail.com?subject=Inquiry%20from%20GitHub%20Profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="hemang2002" height="30" width="40" /></a>
